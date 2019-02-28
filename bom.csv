@@ -1,0 +1,20 @@
+Source:,C:\Users\Administrator.DESKTOP-N5DN21F\Desktop\Fiverr\Clients\z Small Scale\vrocco\PCB\PCB.sch,Column 03,Column 04,Column 05,Column 06,Column 07,New Column
+Date:,2/27/2019 12:30:19 PM,,,,,,
+Tool:,Eeschema (5.0.0),,,,,,
+Generator:,C:\Program Files\KiCad\bin\scripting\plugins/bom_csv_grouped_by_value_with_fp.py,,,,,,
+Component Count:,14,,,,,,
+Ref,Qnty,Value,Cmp name,Footprint,Description,Manufacturer part No:,Link
+"C1, ",1,3.3uF,CP1,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,Polarised capacitor, UFW1H3R3MDD1TD ,https://www.digikey.com/product-detail/en/nichicon/UFW1H3R3MDD1TD/493-11013-1-ND/4317920
+"C2, ",1,1uF,CP1,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,Polarised capacitor, UFW1H010MDD1TD ,https://www.digikey.com/product-detail/en/nichicon/UFW1H010MDD1TD/493-11001-1-ND/4317910
+"J1, ",1,POWER,Conn_01x02,Connector_JST:JST_EH_B02B-EH-A_1x02_P2.50mm_Vertical,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",B2B-EH-A(LF)(SN) ,https://www.digikey.com/product-detail/en/jst-sales-america-inc/B2B-EH-A-LF-SN/455-1611-ND/926520
+"J2, ",1,SWITCH,Conn_01x02,Connector_JST:JST_EH_B02B-EH-A_1x02_P2.50mm_Vertical,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",B2B-EH-A(LF)(SN) ,https://www.digikey.com/product-detail/en/jst-sales-america-inc/B2B-EH-A-LF-SN/455-1611-ND/926520
+"J3, ",1,LED,Conn_01x02,Connector_JST:JST_EH_B02B-EH-A_1x02_P2.50mm_Vertical,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",B2B-EH-A(LF)(SN) ,https://www.digikey.com/product-detail/en/jst-sales-america-inc/B2B-EH-A-LF-SN/455-1611-ND/926520
+"J4, ",1,MODE POT,Conn_01x03,Connector_JST:JST_EH_B03B-EH-A_1x03_P2.50mm_Vertical,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",B3B-XH-A(LF)(SN) ,https://www.digikey.com/product-detail/en/jst-sales-america-inc/B3B-XH-A-LF-SN/455-2248-ND/1651046
+"J5, ",1,TRIGGER POT,Conn_01x03,Connector_JST:JST_EH_B03B-EH-A_1x03_P2.50mm_Vertical,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",B3B-XH-A(LF)(SN) ,https://www.digikey.com/product-detail/en/jst-sales-america-inc/B3B-XH-A-LF-SN/455-2248-ND/1651046
+"J6, ",1,PWM,Conn_01x03,Connector_JST:JST_EH_B03B-EH-A_1x03_P2.50mm_Vertical,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",B3B-XH-A(LF)(SN) ,https://www.digikey.com/product-detail/en/jst-sales-america-inc/B3B-XH-A-LF-SN/455-2248-ND/1651046
+"R1, ",1,8.2k,R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Resistor, RNMF14FTC8K20 ,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RNMF14FTC8K20/S8.2KCACT-ND/2617539
+"R2, ",1,5.6k,R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Resistor, RNMF14FTC5K60 ,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RNMF14FTC5K60/S5.6KCACT-ND/2617520
+"R3, ",1,120R,R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Resistor, RNMF14FTC120R ,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RNMF14FTC120R/S120CACT-ND/2617441
+"R4, ",1,330R,R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Resistor, RNMF14FTC330R ,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RNMF14FTC330R/S330CACT-ND/2617488
+"U1, ",1,L7805,L7805,Package_TO_SOT_THT:TO-220F-3_Vertical,"Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252", SCD7805BTG ,https://www.digikey.com/product-detail/en/on-semiconductor/SCD7805BTG/SCD7805BTGOS-ND/5845498
+"U2, ",1,ATtiny85-20PU,ATtiny85-20PU,Package_DIP:DIP-8_W7.62mm,"20MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, DIP-8",ATTINY85-20PU ,https://www.digikey.com/product-detail/en/microchip-technology/ATTINY85-20PU/ATTINY85-20PU-ND/735469
